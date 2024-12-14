@@ -1,6 +1,6 @@
 # My Data Science Project Template 📊
 
-Este repositorio sirve como base para desarrollar proyectos de ciencia de datos. Cada proyecto que comparta se basará en esta estructura. Para leer el readme en inglés consultar [README.md](https://github.com/usuario/template-datascience-project/README_ENG.md).
+Este repositorio sirve como base para desarrollar proyectos de ciencia de datos. Cada proyecto que comparta se basará en esta estructura. Para leer el readme en inglés consultar [README.md](https://github.com/sofiavalino/template-datascience-project/blob/main/README.md).
 
 ## Objetivo 🎯
 
