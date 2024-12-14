@@ -1,6 +1,6 @@
 # My Data Science Project Template 📊
 
-This repository serves as a foundation for developing data science projects. Every project I share will follow this structure. To consult the readme in Spanish, click here [README_ESP.md](https://github.com/sofiavalino/template-datascience-project/README_ESP.md)
+This repository serves as a foundation for developing data science projects. Every project I share will follow this structure. To consult the readme in Spanish, click here [README_ESP.md](https://github.com/sofiavalino/template-datascience-project/blob/main/README_ESP.md)
 
 ## Purpose 🎯
 
@@ -54,7 +54,7 @@ This project integrates with a shared repository [`shared-resources`](https://gi
 
 1. Add the submodule to your repository:
    ```bash
-   git submodule add https://github.com/usuario/shared-resources shared/
+   git submodule add https://github.com/sofiavalino/shared-resources shared/
    git submodule update --init --recursive
    ```
 
@@ -73,7 +73,7 @@ This project integrates with a shared repository [`shared-resources`](https://gi
 
 1. Clone the repository with its submodules:
    ```bash
-   git clone --recursive https://github.com/usuario/template-datascience-project.git
+   git clone --recursive https://github.com/sofiavalino/template-datascience-project.git
    ```
 
 2. Install the required dependencies:
@@ -89,7 +89,7 @@ Feel free to suggest improvements or report issues by opening an issue or submit
 
 ## License 📜
 
-This project is under the [MIT License](https://github.com/usuario/template-datascience-project/blob/main/LICENSE). Review the license terms for usage and modification.
+This project is under the [MIT License](https://github.com/sofiavalino/template-datascience-project/blob/main/LICENSE). Review the license terms for usage and modification.
 
 ## Contact 📧
 
